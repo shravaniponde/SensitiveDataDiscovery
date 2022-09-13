@@ -1,4 +1,4 @@
-# AI/ML Based Sensitive Data Discovery and Classification of Unstructured Data Sources
+# AI/ML Based Sensitive Data Discovery and Classification of Unstructured Data Sources
 # Overview
 The volume of the data owned by organizations is growing rapidly. It is estimated that 80-90% of the data is in unstructured format. <br />
 As per Forbes, almost 95% businesses are struggling to manage unstructured data. <br />
