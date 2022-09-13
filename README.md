@@ -15,8 +15,7 @@ NPI - Non-public Personal Information <br />
 3. Auto classify the document as Public, Internal, Confidential, Restricted using Multi Class Classification Model <br />
 
 # Dataset:
-Since the project simulation needs sensitive information, synthetic data which mimics PII was generated while preserving the format and data type. <br /> 
-This dataset will be used as an input to train the model to auto-detect the sensitive data elements and classify the document. <br />
+Since the project simulation needs sensitive information, synthetic data which mimics PII was generated while preserving the format and data type. This dataset was used as an input to train the multi class classifier to auto-detect the sensitive data elements and classify the document.
 
 
 
